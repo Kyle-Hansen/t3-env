@@ -1,0 +1,5 @@
+Application=Click2Buy
+AppMoniker=c2b
+AdminSecGrp=sg-ad285cca
+AdminSubnet=subnet-b49852d0
+KeyPair=repsvc-c2b
